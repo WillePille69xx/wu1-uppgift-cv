@@ -18,6 +18,8 @@ tired to try and fix it I've been working since 8:00 and the clock is now almost
 2024-10-23: OK I Am Dumb. Absolutely stupid.
 I finally figured out why my code did'nt work. I've been so stupid considering I reset and started over 3 times because i just thought i was garbage at coding but the problem was that I Am garbage at coding but i mean the problem is that I've been forgetting that to link it to my style.css I first have to link it to its folder so yea I'm stupid. Massive facepalm moment when i realized it. -_- Honestly It's such a stupid mistake I can't believe I overlooked. I mean I checked the link between the codes several times yet still missed it.
 
+Ok there are still many fixes and tweaks I can do however I'm tired and the Cv needs to be sent in today so this is it. 
+
 Anyways I've taken back one of my old codes that I deleted because it did'nt work and now its working. 
 
 Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
