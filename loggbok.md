@@ -15,6 +15,11 @@ I've made a physical skis of how it will look. So basically this first lesson I 
 2024-10-16: OK I've done a lot however the problem is that he fucking site looks ugly as fuck. And I'm to
 tired to try and fix it I've been working since 8:00 and the clock is now almost 12 so 4 hours trying to fix it but not much success.
 
+2024-10-23: OK I Am Dumb. Absolutely stupid.
+I finally figured out why my code did'nt work. I've been so stupid considering I reset and started over 3 times because i just thought i was garbage at coding but the problem was that I Am garbage at coding but i mean the problem is that I've been forgetting that to link it to my style.css I first have to link it to its folder so yea I'm stupid. Massive facepalm moment when i realized it. -_- Honestly It's such a stupid mistake I can't believe I overlooked. I mean I checked the link between the codes several times yet still missed it.
+
+Anyways I've taken back one of my old codes that I deleted because it did'nt work and now its working. 
+
 Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
 
 Skriv även sådant som du måste arbeta med nästa pass.
